@@ -5,8 +5,8 @@ date: "2022-11-12"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+this is a blog post wow so epic and amazing
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+i guess this is a randomly inserted image of a coffee shop which is such a random thing to add but whatever 

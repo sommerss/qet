@@ -1,6 +1,6 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "so called post with code"
+author: "some random guy"
 date: "2022-11-15"
 categories: [news, code, analysis]
 image: "image.jpg"
