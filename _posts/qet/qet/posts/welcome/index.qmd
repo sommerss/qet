@@ -1,0 +1,12 @@
+---
+title: "welcome. "
+author: "some other rando"
+date: "2022-11-13"
+categories: [personal]
+---
+
+welcome i guess
+
+![](thumbnail.jpg)
+
+rando photo of a coffee shop
