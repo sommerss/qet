@@ -4,7 +4,7 @@ project:
 website:
   title: "sabines epic blog"
   navbar:
-    background: #76b5c5
+    background: primary
     right:
       - about.qmd
       - icon: github
