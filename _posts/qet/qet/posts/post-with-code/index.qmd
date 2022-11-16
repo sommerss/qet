@@ -3,7 +3,7 @@ title: "so called post with code"
 author: "some random guy"
 date: "2022-11-16"
 categories: [personal]
-image: "image.jpg"
+image: "image.png"
 ---
 
 apparently executable code is here
