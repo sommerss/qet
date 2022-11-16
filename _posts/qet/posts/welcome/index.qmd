@@ -1,8 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "welcome."
+author: "another random guy"
 date: "2022-11-12"
-categories: [news]
+categories: [personal]
 ---
 
 this is a blog post wow so epic and amazing
