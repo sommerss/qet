@@ -1,9 +1,24 @@
 ---
-title: "so called post with code"
-author: "some random guy"
+title: "amazing tutorial"
+author: "by me sabine"
 date: "2022-11-16"
-categories: [personal]
-image: "image.png"
+categories: [tutorial stuff]
 ---
+the first step... go download quarto. 
 
-apparently executable code is here
+the second step... download the quarto extension on vscode (in a vscode for a new repo)
+
+the third step... open the command palette and do quarto: create project
+
+it will ask you what you want it to be named or something. just name it what your repo is named probably
+
+the fourth step... I think the rest is pretty self explanatory just edit it like a fastpages site
+
+the fifth step... open command palette and do quarto: render
+
+it will open a local host 
+
+if you want to publish it to your github then do quarto publish gh-pages in the terminal and then it will open with the link in your github !! 
+
+
+
