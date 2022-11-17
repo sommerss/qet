@@ -2,7 +2,7 @@
 title: "welcome. "
 author: "some other rando"
 date: "2022-11-13"
-categories: [personal]
+categories: [not personal]
 ---
 
 welcome i guess
