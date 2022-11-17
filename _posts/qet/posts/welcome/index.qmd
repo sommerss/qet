@@ -1,0 +1,12 @@
+---
+title: "welcome."
+author: "another random guy"
+date: "2022-11-12"
+categories: [personal]
+---
+
+this is a blog post wow so epic and amazing
+
+![](thumbnail.jpg)
+
+i guess this is a randomly inserted image of a coffee shop which is such a random thing to add but whatever 

@@ -1,0 +1,9 @@
+---
+title: "so called post with code"
+author: "some random guy"
+date: "2022-11-15"
+categories: [personal]
+image: "image.jpg"
+---
+
+this is (apparently) a post with executable code ok where is the code then huh. i see nothing. no code. ive been lied to. 
