@@ -2,9 +2,9 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "so called post with code",
+    "title": "amazing tutorial",
     "section": "",
-    "text": "apparently executable code is here"
+    "text": "the first step… go download quarto.\nthe second step… download the quarto extension on vscode (in a vscode for a new repo)\nthe third step… open the command palette and do quarto: create project\nit will ask you what you want it to be named or something. just name it what your repo is named probably\nthe fourth step… I think the rest is pretty self explanatory just edit it like a fastpages site\nthe fifth step… open command palette and do quarto: render\nit will open a local host (the local host will close when you close it on vscode and never open again. you need to render every time you want the local host to open. it will open in your vscode and in a seperate tab if you click on the link)\nif you want to publish it to your github then do quarto publish gh-pages in the terminal and then it will open with the link in your github !!\nmy personal opinion: I don’t like how difficult it is to switch stuff (color and etc) and the syntax is slightly different, but overall its just as easy to use and way easier and faster to host locally and to publish. it is a bit harder to open up but i overall enjoy it."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -14,11 +14,18 @@
     "text": "welcome i guess\n\nthere is nothing else here besides this slightly threatening image"
   },
   {
+    "objectID": "posts/class-stuff/class.html",
+    "href": "posts/class-stuff/class.html",
+    "title": "class stuff",
+    "section": "",
+    "text": "presentation project thing\n\nprint(\"wow this is so cool\")\n\nwow this is so cool"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "sabinesblog",
     "section": "",
-    "text": "so called post with code\n\n\n\n\n\n\n\npersonal\n\n\n\n\n\n\n\n\n\n\n\nNov 16, 2022\n\n\nsome random guy\n\n\n\n\n\n\n  \n\n\n\n\nwelcome.\n\n\n\n\n\n\n\nnot personal\n\n\n\n\n\n\n\n\n\n\n\nNov 13, 2022\n\n\nsome other rando\n\n\n\n\n\n\nNo matching items"
+    "text": "amazing tutorial\n\n\n\n\n\n\n\ntutorial stuff\n\n\n\n\n\n\n\n\n\n\n\nNov 16, 2022\n\n\nby me sabine\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nclass stuff\n\n\n\n\n\n\n\nclass\n\n\n\n\n\n\n\n\n\n\n\nNov 16, 2022\n\n\nby me sabine\n\n\n\n\n\n\n  \n\n\n\n\nwelcome.\n\n\n\n\n\n\n\nnot personal\n\n\n\n\n\n\n\n\n\n\n\nNov 13, 2022\n\n\nsome other rando\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
