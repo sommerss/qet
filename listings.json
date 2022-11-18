@@ -2,8 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
+      "/posts/class-stuff/week-13-2.html",
       "/posts/class-stuff/class.html",
+      "/posts/class-stuff/week-13.html",
+      "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
   }

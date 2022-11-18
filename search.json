@@ -21,11 +21,25 @@
     "text": "presentation project thing\n\nprint(\"wow this is so cool\")\n\nwow this is so cool"
   },
   {
+    "objectID": "posts/class-stuff/week-13.html",
+    "href": "posts/class-stuff/week-13.html",
+    "title": "week 13",
+    "section": "",
+    "text": "PLANNING:\n-[ ] Watch all four AP classroom videos -[X] Note taking -[X] Outside research -[ ] Make edits to my hack\n\nNOTES\nprocedures are a part of procedural abstraction- you don’t have to know how it work to call it (like te print procedure) lets you write less text and get the same answer easy to modify to individual scenarios- can modify procedures without affecting whole program. you can also make an edit once and it will show up everywhere and everytime the procedure is called procedures often need parameters- input variables when you “call” procedure with defined values/ variables, values/variables= arguments can use return function to return value of expression without printing\n\n\nHACK\nin this procedure, the function is the beginning part. def name_of_function, which is summing_machine, and then the parameters in parenthesis. undernearth is code statements. (such as print). since it says value = first + second number and then says return value, it is meant to add the two. the answer thing allows you to add the name of function (summing_machine) and then the values you want for the parameters, and then the final step which is printing.\n\ndef summing_machine(first_number, second_number):\n    value = first_number + second_number\n    return (value)\n\nanswer = summing_machine(29, 8)\nprint (answer)\n\nprint (answer + 1)\n\n37\n38"
+  },
+  {
+    "objectID": "posts/class-stuff/week-13-2.html",
+    "href": "posts/class-stuff/week-13-2.html",
+    "title": "week 13 v 2",
+    "section": "",
+    "text": "BINARY HACK THING- converts a given number (20) to binary!\n1st part- conversion function- a number to binary\n2nd part- the binary number (array storing thing)\n3rd part- the counter for the array\n4th part- storing the stuff\n5th part- printing stuff\n6th part- definition to use in variables throughout code\n\ndef decToBinary(n):\n     \n    binaryNum = [0] * n;\n \n\n    i = 0;\n    while (n > 0):\n \n       \n        binaryNum[i] = n % 2;\n        n = int(n / 2);\n        i += 1;\n \n   \n    for j in range(i - 1, -1, -1):\n        print(binaryNum[j], end = \"\");\n \n\nn = 20;\ndecToBinary(n);\n\n10100"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "sabinesblog",
     "section": "",
-    "text": "amazing tutorial\n\n\n\n\n\n\n\ntutorial stuff\n\n\n\n\n\n\n\n\n\n\n\nNov 16, 2022\n\n\nby me sabine\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nclass stuff\n\n\n\n\n\n\n\nclass\n\n\n\n\n\n\n\n\n\n\n\nNov 16, 2022\n\n\nby me sabine\n\n\n\n\n\n\n  \n\n\n\n\nwelcome.\n\n\n\n\n\n\n\nnot personal\n\n\n\n\n\n\n\n\n\n\n\nNov 13, 2022\n\n\nsome other rando\n\n\n\n\n\n\nNo matching items"
+    "text": "week 13 v 2\n\n\n\n\n\n\n\nclass\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2022\n\n\nby me sabine\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\namazing tutorial\n\n\n\n\n\n\n\nclass\n\n\n\n\n\n\n\n\n\n\n\nNov 17, 2022\n\n\nby me sabine\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nweek 13\n\n\n\n\n\n\n\nclass\n\n\n\n\n\n\n\n\n\n\n\nNov 17, 2022\n\n\nby me sabine\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\namazing tutorial\n\n\n\n\n\n\n\ntutorial stuff\n\n\n\n\n\n\n\n\n\n\n\nNov 16, 2022\n\n\nby me sabine\n\n\n\n\n\n\n  \n\n\n\n\nwelcome.\n\n\n\n\n\n\n\nnot personal\n\n\n\n\n\n\n\n\n\n\n\nNov 13, 2022\n\n\nsome other rando\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

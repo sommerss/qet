@@ -2,22 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/sommerss/qet/posts/post-with-code/index.html</loc>
-    <lastmod>2022-11-17T23:20:25.272Z</lastmod>
+    <lastmod>2022-11-18T23:00:36.273Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/sommerss/qet/posts/welcome/index.html</loc>
-    <lastmod>2022-11-17T23:20:25.596Z</lastmod>
+    <lastmod>2022-11-18T23:00:36.600Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/sommerss/qet/posts/class-stuff/class.html</loc>
-    <lastmod>2022-11-17T23:20:26.656Z</lastmod>
+    <lastmod>2022-11-18T23:00:37.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/sommerss/qet/posts/class-stuff/week-13.html</loc>
+    <lastmod>2022-11-18T23:00:38.126Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/sommerss/qet/posts/class-stuff/week-13-2.html</loc>
+    <lastmod>2022-11-18T23:00:38.543Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/sommerss/qet/index.html</loc>
-    <lastmod>2022-11-17T23:20:26.995Z</lastmod>
+    <lastmod>2022-11-18T23:00:38.896Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/sommerss/qet/about.html</loc>
-    <lastmod>2022-11-17T23:20:27.294Z</lastmod>
+    <lastmod>2022-11-18T23:00:39.201Z</lastmod>
   </url>
 </urlset>
