@@ -16,9 +16,11 @@ the fourth step... I think the rest is pretty self explanatory just edit it like
 
 the fifth step... open command palette and do quarto: render
 
-it will open a local host 
+it will open a local host (the local host will close when you close it on vscode and never open again. you need to render every time you want the local host to open. it will open in your vscode and in a seperate tab if you click on the link)
 
 if you want to publish it to your github then do quarto publish gh-pages in the terminal and then it will open with the link in your github !! 
+
+my personal opinion: I don't like how difficult it is to switch stuff (color and etc) and the syntax is slightly different, but overall its just as easy to use and way easier and faster to host locally and to publish. it is a bit harder to open up but i overall enjoy it. 
 
 
 

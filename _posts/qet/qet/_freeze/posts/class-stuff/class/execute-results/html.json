@@ -1,0 +1,11 @@
+{
+  "hash": "a16c3930cb8ffae2e51dc1e9140b7c89",
+  "result": {
+    "markdown": "---\ntitle: \"class stuff\"\nauthor: \"by me sabine\"\ndate: \"2022-11-16\"\ncategories: [class]\n---\n\npresentation project thing\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nprint(\"wow this is so cool\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nwow this is so cool\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "class_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

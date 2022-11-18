@@ -1,0 +1,38 @@
+---
+title: "week 13"
+author: "by me sabine"
+date: "2022-11-17"
+categories: [class]
+---
+
+PLANNING: 
+
+-[ ] Watch all four AP classroom videos
+-[X] Note taking
+-[X] Outside research
+-[ ] Make edits to my hack
+
+
+### NOTES
+procedures are a part of procedural abstraction- you don't have to know how it work to call it (like te print procedure)
+lets you write less text and get the same answer
+easy to modify to individual scenarios- can modify procedures without affecting whole program. you can also make an edit once and it will show up everywhere and everytime the procedure is called
+procedures often need parameters- input variables 
+when you "call" procedure with defined values/ variables, values/variables= arguments
+can use return function to return value of expression without printing
+
+
+### HACK
+in this procedure, the function is the beginning part. def name_of_function, which is summing_machine, and then the parameters in parenthesis. undernearth is code statements. (such as print). since it says value = first + second number and then says return value, it is meant to add the two. the answer thing allows you to add the name of function (summing_machine) and then the values you want for the parameters, and then the final step which is printing. 
+
+
+```{python}
+def summing_machine(first_number, second_number):
+	value = first_number + second_number
+	return (value)
+
+answer = summing_machine(29, 8)
+print (answer)
+
+print (answer + 1)
+```
